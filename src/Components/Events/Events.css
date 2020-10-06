@@ -1,0 +1,32 @@
+.event__img {
+  object-fit: contain;
+  height: 250px;
+}
+.events {
+  margin: 20px auto;
+}
+.event {
+  display: flex;
+
+  align-items: flex-start;
+  padding: 20px;
+  justify-content: flex-start;
+}
+.event__left {
+  flex: 0.5;
+}
+.event__right {
+  flex: 0.5;
+  margin-left: 30px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+}
+.event__right > button {
+  position: absolute;
+
+  bottom: 15px;
+  right: 15px;
+}

@@ -1,0 +1,27 @@
+.voluntaryJob {
+  position: relative;
+  margin: 20px 0px;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+.voluntaryJob > img {
+  object-fit: contain;
+  /* height: 200px; */
+  width: 100%;
+}
+
+.voluntaryJob > p {
+  background-color: rgb(5, 5, 46);
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 600;
+  padding: 10px 0px;
+  width: 100%;
+  margin: -56px auto 0px auto;
+  z-index: 999;
+}
+@media (max-width: 500px) {
+  .voluntaryJob {
+    width: 50%;
+  }
+}

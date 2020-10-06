@@ -1,0 +1,6 @@
+.adminEvents > img {
+  object-fit: contain;
+  height: 100px;
+  text-align: center;
+  margin: 50px auto 30px auto;
+}
