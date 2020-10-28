@@ -1,4 +1,4 @@
-# Creative Agency
+# Volunteer Network
 ![alt text](src/images/volunteer_network.jpg)
 
 
