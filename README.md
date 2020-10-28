@@ -1,5 +1,5 @@
 # Creative Agency
-![alt text](src/images/creative-agency.jpg)
+![alt text](src/images/volunteer_network.jpg)
 
 
 [https://volunteer-network-react.web.app/](https://volunteer-network-react.web.app/)
